@@ -1,0 +1,145 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Nightwood</title>
+				<author>Djuna Barnes</author>
+				<respStmt>
+					<resp>Text Encoding by </resp>
+					<name>Alex Christie</name>
+				</respStmt>
+			</titleStmt>
+			<notesStmt>
+				<note>Generated using Cheryl J. Plumb's "Original Version and Related Drafts" of the novel.</note>
+			</notesStmt>
+			<sourceDesc>(Plumb 139, 185-186)</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl> </editorialDecl>
+			<variantEncoding location="internal" method="parallel-segmentation"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<listWit>
+				<witness xml:id="ver">New Directions</witness>
+				<witness xml:id="tx">Third Typescripts</witness>
+				<witness xml:id="tsc2">Second Typescript (Carbon)</witness>
+			</listWit>
+		</front>
+		<body>
+
+			<div>
+
+				<p>
+					<app loc="a">
+						<rdg wit="#all"> On a contrived alter, before a Madonna, two candles were
+							burning. Their light fell across the floor and the dusty benches. Before
+							the image lay flowers and toys. Standing before them in the boy’s
+							trousers was Robin. Her pose, startled and broken, was caught at he
+							point where her hand had reached almost to the shoulder, </rdg>
+					</app>
+					<app loc="b">
+						<rdg wit="#ver"> and at the moment Nora’s body struck the wood, Robin began
+							going down, down, her hair swinging, her arms out. </rdg>
+						<rdg wit="#tx"> and at the moment Nora's body struck the wood, Robin began
+							going down. Silding down she went; down, her hair swinging, her arms
+							held out, </rdg>
+						<rdg wit="#tsc2"> and at the moment Nora's body struck the wood, Robin began
+							going down. Silding down she went; down, her hair swinging, her arms
+							held out, </rdg>
+					</app>
+					<app loc="c">
+						<rdg wit="#ver"> The dog stood rearing back, </rdg>
+						<rdg wit="#tx"> The dog stood rearing back, </rdg>
+						<rdg wit="#tsc2"> and the dog, the model of what she was about and the terror
+							of what she was to do, stood there, </rdg>
+					</app>
+					<app loc="d">
+						<rdg wit="#all"> his forelegs slanting, his paws trembling under the
+							trembling of his rump, his hackle standing, his mouth open, the tongue
+							slung sideways over his sharp bright teeth, whining and waiting. And
+							down she want, until her head swung against his, on all fours now,
+							dragging her knees. The veins stood out in her neck, under her ears,
+							swelled in her arms, and wide and throbbing, rose up on her hands as she
+							moved forward. </rdg>
+					</app>
+					
+					<app loc="e">
+						<rdg wit="#tx">
+							"Where?" she whispered. "Where?" "Where?"
+						</rdg>
+					</app>
+				</p>
+				
+				<p>
+					<app loc="f">
+						<rdg wit="#all">
+							The dog, quivering in every muscle, sprang back, his tongue a stiff curving terror in his mouth; moved backward, back, as she came on, whimpering too, coming forward, her head turned completely sideways, grinning and whimpering. Backed into the farthest corner, the dog reared as if to avoid something that troubled him to such agony that he seemed to be rising form the floor; then he stopped, clawing sideways at the wall, his forepaws lifted and
+						</rdg>
+					</app>
+					
+					<app loc="g">
+						<rdg wit="#tx">
+							sliding.
+						</rdg>
+						<rdg wit="#ver">
+							sliding.
+						</rdg>
+						<rdg wit="#tsc2">
+							silding, looking at her, striking against the wall, like a little horse; like something imploring a bird, a mistress.
+						</rdg>
+					</app>
+					
+					<app loc="h">
+						<rdg wit="#all">
+							Then head down, dragging her forelocks in the dust, she struck against his side. He let loose one howl of misery and bit at her, dashing about her, barking, and as he sprang on either side of her he always kept his head toward her, dashing his rump now this side, now that, of the wall.
+						</rdg>
+					</app>
+				</p>
+				
+				<p>
+					<app loc="i">
+						<rdg wit="#all">
+							Then she began to bark also, crawling after him—barking in a fit of laughter, obscene and touching. Crouching, the dog began to run with her, head-on with her head, 
+						</rdg>
+					</app>
+					
+					<app loc="j">
+						<rdg wit="#ver">
+							as if to circumvent her; 
+						</rdg>
+						<rdg wit="#tx">
+							as if to circumvent her; 
+						</rdg>
+						<rdg wit="#tsc2">
+							as if to slowly and surely circumvent her; 
+						</rdg>
+					</app>
+					
+					<app loc="k">
+						<rdg wit="#all">
+							 soft and slow his feet went passing. He ran this way and that, low down in his throat crying, and she grinning and crying with him; crying in shorter and shorter spaces, moving head to head, until she gave up, lying out, her hands beside her, her face turned and weeping; and the dog too gave up then, and lay down,
+						</rdg>
+					</app>
+					
+					<app loc="l">
+						<rdg wit="#ver">
+							eyes bloodshot, his head flat along her knees.
+						</rdg>
+						<rdg wit="#tx">
+							eyes bloodshot, his head flat along her knees.
+						</rdg>
+						<rdg wit="#tsc2">
+							head flat along her knees, his eyes bloodshot, and waiting.
+						</rdg>
+					</app>
+
+
+			</div>
+
+
+		</body>
+	</text>
+</TEI>

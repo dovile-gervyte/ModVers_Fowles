@@ -1,0 +1,87 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nightwood</title>
+        <author>Djuna Barnes</author>
+        <respStmt>
+          <resp>Text Encoding by </resp>
+          <name>Alex Christie</name>
+        </respStmt>
+      </titleStmt>
+      <notesStmt>
+      	<note>
+      		Generated using Cheryl J. Plumb's "Original Version and Related Drafts" of the novel.
+      	</note>
+      </notesStmt>
+      <sourceDesc>
+      	(Plumb 111, 204)
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        
+      </editorialDecl>
+      <variantEncoding location="internal" method="parallel-segmentation"></variantEncoding>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+		<listWit>
+          <witness xml:id="n1">New Directions</witness>
+			<witness xml:id="n2">Original Version</witness>
+        </listWit>
+    </front>
+    <body>
+
+    <div>
+
+    	<p>
+    		<app loc="a">
+    			<rdg wit="#all">
+    				“Kneeling in a dark corner, bending my head over and down,
+    			</rdg>
+    		</app>
+    		
+    		<app loc="a1">
+    			<rdg wit="#n1">I spoke to Tiny O’Toole  </rdg>
+    			<rdg wit="#n2">I took out Tiny O’Toole </rdg>
+    		</app>
+    		
+    		<app loc="a">
+    			<rdg wit="#all">
+    				because it was his turn; I had tried everything else. There was nothing for it this time but to make him face the mystery so it could see him clear as it saw me. So then I whispered, ‘What is this thing, Lord?’ And I began to cry…I was crying and striking my left hand against the
+    			</rdg>
+    		</app>
+    		
+    		<app loc="a2">
+    			<rdg wit="#all">prie-dieu, </rdg>
+    		</app>
+    		
+    		<app loc="a">
+    			<rdg wit="#all">
+    				and all the while Tiny O’Toole was lying in swoon. ..’I’m not able to stay permanent unless you help me, O Book of Concealment!
+    			</rdg>
+    		</app>
+    		
+    		<app loc="a3">
+    			<rdg wit="#all">C’est le plaisir qui me boulverse!</rdg>
+    		</app>
+    		
+    		<app loc="a">
+    			<rdg wit="#all">
+    				The roaring lion goes forth, seeking his own fury! So tell me, what is permanent of me, me or him?</rdg>
+    			</app>
+    		
+    		
+		</p>
+
+	
+	</div>
+
+        
+    </body>
+  </text>
+</TEI>
+            

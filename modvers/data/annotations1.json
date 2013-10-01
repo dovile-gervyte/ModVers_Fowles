@@ -1,0 +1,30 @@
+{
+"annotations": {
+    "items": [
+        {
+            "loc": "a2",
+            "wit": "n1, n2",
+            "text": "A low chair, on which one kneels to pray."
+        },
+               {
+            "loc": "a3",
+            "wit": "n1, n2",
+            "text": "It is pleasure that devastates me!"
+        }
+        
+    ]
+},
+"highlights": {
+    "items": [
+        {
+            "loc": "a1",
+            "description": "Variant"
+        },
+        {
+            "loc": "a2, a3",
+            "description": "See annotation."
+        }
+        
+    ]
+}
+}
