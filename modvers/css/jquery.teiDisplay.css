@@ -559,13 +559,13 @@ td { vertical-align: top; }
   #teiDisplayTextAdvance, #teiDisplayTextRegress {
     height: 50%;
     opacity: .7;
-    width: 100px;
+    width: 30px;
     position: absolute;
     right: 0;
     background-color: #ccc;
     z-index: 99;
     cursor: pointer;
-    display: none;
+    display: ;
   }
 
   #teiDisplayTextRegress div, #teiDisplayTextAdvance div {
@@ -632,7 +632,7 @@ td { vertical-align: top; }
 #teiTexts {
   margin: 0 20px 0 20px;
   padding: 0 0 0 520px;
-  overflow: hidden;
+  overflow: scroll;
   position: fixed;
   top: 0px;
   width: 100%;
