@@ -1,0 +1,54 @@
+{
+"annotations": {
+    "items": [
+        {
+            "loc": "b",
+            "wit": "tx",
+            "text": "Introduced in all copies of typescript."
+        },
+               {
+            "loc": "c",
+            "wit": "tsc2",
+            "text": "Introduced in both carbon copies of the typescript."
+        },
+                       {
+            "loc": "e",
+            "wit": "tx",
+            "text": "Inroduced in all copies of typescript."
+        },
+              {
+            "loc": "g",
+            "wit": "tsc2",
+            "text": "Introduced in the ribbon and second carbon copies of typescript."
+        },
+              {
+            "loc": "j",
+            "wit": "tsc2",
+            "text": "Introduced in both carbon copies of typescript."
+        },
+              {
+            "loc": "l",
+            "wit": "tx",
+            "text": "Introduced in all copies of typescript."
+        }
+        
+    ]
+},
+"highlights": {
+    "items": [
+        {
+            "loc": "b, e, j",
+            "description": ""
+        },
+        {
+            "loc": "c, g",
+            "description": ""
+        },
+        {
+            "loc": "l",
+            "description": ""
+        }
+        
+    ]
+}
+}

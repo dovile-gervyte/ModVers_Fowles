@@ -24,8 +24,8 @@
 		<front>
 			<listWit>
 				<witness xml:id="ver">Faber and Faber</witness>
-				<witness xml:id="tx">Third Typescripts</witness>
-				<witness xml:id="tsc2">Second Typescript (Carbon)</witness>
+				<witness xml:id="tx">Typescript (All)</witness>
+				<witness xml:id="tsc2">Typescript (Selected)</witness>
 			</listWit>
 		</front>
 		<body>
@@ -46,9 +46,8 @@
 						<rdg wit="#tx"> and at the moment Nora's body struck the wood, Robin began
 							going down. Silding down she went; down, her hair swinging, her arms
 							held out, </rdg>
-						<rdg wit="#tsc2"> and at the moment Nora's body struck the wood, Robin began
-							going down. Silding down she went; down, her hair swinging, her arms
-							held out, </rdg>
+						<rdg wit="#tsc2"> and at the moment Nora’s body struck the wood, Robin began
+							going down, down, her hair swinging, her arms out.</rdg>
 					</app>
 					<app loc="c">
 						<rdg wit="#ver"> The dog stood rearing back, </rdg>
@@ -68,6 +67,9 @@
 					
 					<app loc="e">
 						<rdg wit="#tx">
+							"Where?" she whispered. "Where?" "Where?"
+						</rdg>
+						<rdg wit="#tsc2">
 							"Where?" she whispered. "Where?" "Where?"
 						</rdg>
 					</app>
@@ -129,10 +131,10 @@
 							eyes bloodshot, his head flat along her knees.
 						</rdg>
 						<rdg wit="#tx">
-							eyes bloodshot, his head flat along her knees.
+							head flat along her knees, his eyes bloodshot, and waiting.
 						</rdg>
 						<rdg wit="#tsc2">
-							head flat along her knees, his eyes bloodshot, and waiting.
+							eyes bloodshot, his head flat along her knees.
 						</rdg>
 					</app>
 
