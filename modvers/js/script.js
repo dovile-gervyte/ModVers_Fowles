@@ -23,7 +23,7 @@ $(document).ready(function(){
 	$('#tei-single').data('teiDisplay', {
 		xmlFile: 'data/barnes1.xml',
 		fixFirst: true,
-		fullscreen: false,
+		//fullscreen: false,
 		//height: 600,
 		annotations: 'data/annotations11.json',
 		highlights: 'data/annotations11.json',
@@ -36,7 +36,7 @@ $(document).ready(function(){
 	$('#t3').data('teiDisplay', {
 		xmlFile: 'data/barnes.xml',
 		fixFirst: true,
-		fullscreen: false,
+		//fullscreen: false,
 		//height: 700,
 		annotations: 'data/annotations11.json',
 		highlights: 'data/annotations11.json',
