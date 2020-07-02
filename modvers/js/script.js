@@ -11,7 +11,7 @@ $(document).ready(function(){
 		//height: 300,
 		//locs: 'a3,a4,a5',
 		//witnesses: 'ver, tx, tsc2',
-		dev: false,
+		dev: false
 	});
 
 	$('#tei').teiDisplay();
@@ -28,6 +28,7 @@ $(document).ready(function(){
 		annotations: 'data/annotations11.json',
 		highlights: 'data/annotations11.json',
 		//witnesses: 'v4n8,v4n11',
+		dev: false
 	});
 
 	$('#tei-single').teiDisplay();
@@ -41,6 +42,7 @@ $(document).ready(function(){
 		annotations: 'data/annotations11.json',
 		highlights: 'data/annotations11.json',
 		//witnesses: 'v4n8,v4n11',
+		dev: false
 	});
 
 	$('#t3').teiDisplay();
