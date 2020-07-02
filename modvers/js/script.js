@@ -14,7 +14,7 @@ $(document).ready(function(){
 		dev: false,
 	});
 
-	$('#tei').teiDisplay();	
+	$('#tei').teiDisplay();
 
 
 	//Display versioned TEI files in a container with ID #tei-single.
@@ -24,26 +24,25 @@ $(document).ready(function(){
 		xmlFile: 'data/barnes1.xml',
 		fixFirst: true,
 		fullscreen: false,
-		height: 600,
+		//height: 600,
 		annotations: 'data/annotations11.json',
-		highlights: 'data/annotations11.json',		
+		highlights: 'data/annotations11.json',
 		//witnesses: 'v4n8,v4n11',
 	});
 
-	$('#tei-single').teiDisplay();		
+	$('#tei-single').teiDisplay();
 
 
 	$('#t3').data('teiDisplay', {
 		xmlFile: 'data/barnes.xml',
 		fixFirst: true,
 		fullscreen: false,
-		height: 700,
+		//height: 700,
 		annotations: 'data/annotations11.json',
-		highlights: 'data/annotations11.json',		
+		highlights: 'data/annotations11.json',
 		//witnesses: 'v4n8,v4n11',
 	});
 
-	$('#t3').teiDisplay();		
+	$('#t3').teiDisplay();
 
 })//onReady
-
