@@ -1,0 +1,25 @@
+{
+"annotations": {
+    "items": [
+        {
+            "loc": "a1",
+            "wit": "n1, n2",
+            "text": "Crossed out by Frank Morley (editor). Barnes revised the language."
+        }
+        
+    ]
+},
+"highlights": {
+    "items": [
+        {
+            "loc": "a1",
+            "description": "Variant"
+        },
+        {
+            "loc": "a2, a3",
+            "description": "See annotation."
+        }
+        
+    ]
+}
+}

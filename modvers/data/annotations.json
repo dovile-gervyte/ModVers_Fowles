@@ -1,0 +1,29 @@
+{
+"annotations": {
+    "items": [
+        {
+            "loc": "b",
+            "wit": "n1, n2",
+            "text": "Located at the intersection of the 4th, 11th, and 12th arrondisements. A geographical marker of the French revolution."
+        }
+        
+    ]
+},
+"highlights": {
+    "items": [
+        {
+            "loc": "b, e, j",
+            "description": ""
+        },
+        {
+            "loc": "c, g",
+            "description": ""
+        },
+        {
+            "loc": "l",
+            "description": ""
+        }
+        
+    ]
+}
+}

@@ -1,0 +1,100 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nightwood</title>
+        <author>Djuna Barnes</author>
+        <respStmt>
+          <resp>Text Encoding by </resp>
+          <name>Alex Christie</name>
+        </respStmt>
+      </titleStmt>
+      <notesStmt>
+      	<note>
+      		Generated using Cheryl J. Plumb's "Original Version and Related Drafts" of the novel.
+      	</note>
+      </notesStmt>
+      <sourceDesc>
+      	(Plumb 77-78, 199-200)
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        
+      </editorialDecl>
+      <variantEncoding location="internal" method="parallel-segmentation"></variantEncoding>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+		<listWit>
+          <witness xml:id="n1">Faber and Faber</witness>
+			<witness xml:id="n2">Third Typescripts</witness>
+        </listWit>
+    </front>
+    <body>
+
+    <div>
+
+    	<p>
+    		<app loc="a">
+    			<rdg wit="#all">
+    				“Jehovah, Sabaoth, Elohim, Eloi, Helion, Jodhevah, Shaddai! May God give us to dies in our own way! I haunt the pissoirs as naturally, 
+    			</rdg>
+    		</app>
+    		
+    		<app loc="a1">
+    			<rdg wit="n1">  </rdg>
+    			<rdg wit="#n2">, in search of my man, </rdg>
+    		</app>
+    		
+    		<app loc="a">
+    			<rdg wit="#all">
+    				as Highland Mary her cows down by the Dee—and by the Hobs of Hell, I’ve seen the same thing work in a girl looking for her woman, but I’ll bring that up later!…And do you think that those
+    			</rdg>
+    		</app>
+    		
+    		<app loc="a2">
+    			<rdg wit="n1">circular cottages  </rdg>
+    			<rdg wit="#n2">circular cottages of delight </rdg>
+    		</app>
+    		
+    		<app loc="a">
+    			<rdg wit="#all">
+    				have not brought me to great argument? Have you ever glanced at one when the night was well down, and seen it and what it looked like and resembled most, with its one coping and a hundred legs? A centipede. And you look down and choose your feet, and, then to one, you 
+    			</rdg>
+    		</app>
+    		
+    		<app loc="a3">
+    			<rdg wit="n1">find a bird with a light wing</rdg>
+    			<rdg wit="#n2">find that you have picked a bird with a light wing</rdg>
+    		</app>
+    		
+    		<app loc="a">
+    			<rdg wit="#all">
+    				, or an old duck with a wooden knee, or something that has been mournful for years. What? I’ve held arguments with others at long tables all night through about the particular merits of one district over another for such things, of one cottage over another for such things. And do you suppose I was agreed with, and had any one any other one’s ideas? There was as much disagreements as there might have been, had we all been selecting a new order of government. Jed would say North, and Jod would say South…and I said that the best port was at the</rdg>
+    			</app>
+    		
+    		<app loc="x">
+    			<rdg wit="#all">
+    		Place de la Bastille.
+    			</rdg>
+    		</app>
+    		
+    		<app loc="a">
+    			<rdg wit="#all">
+    		Whereupon I was torn into parts by a hundred voices,—each of them pitched in a different arrondisement…I says, ‘sea level and atmospheric pressure and topography make all the difference in the world!’ My voice cracked on the word ‘difference,’ soaring up so divinely, and I said: ‘If you think certain things do not show from what district they come, yea, even to an arrondisement, then you are not out gunning for particular game, but simply any catch, and I’ll have nothing to do with you!’”
+    			</rdg>
+    		</app>
+    		
+		</p>
+
+	
+	</div>
+
+        
+    </body>
+  </text>
+</TEI>
+            
