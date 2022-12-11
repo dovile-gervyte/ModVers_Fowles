@@ -4,7 +4,7 @@ $(document).ready(function(){
 	//This example assumes that the container takes up the entire screen.
 
 	$('#tei').data('teiDisplay', {
-		xmlFile: 'data/barnes3.xml',
+		xmlFile: 'data/index.xml',
 		annotations: 'data/annotation_3.json',
 		highlights: 'data/annotation_3.json',
 		fixFirst: false,
